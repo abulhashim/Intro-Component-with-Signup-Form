@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/](https://www.frontendmentor.io/solutions/intro-component-with-signup-form)
-- Live Site URL: [abulhashim.github.io/Stats-preview-card](https://abulhashim.github.io/Intro-Component-with-Signup-Form/)
+- Solution URL: [frontendmentor.io/solutions/intro-component-with-signup-form](https://www.frontendmentor.io/solutions/intro-component-with-signup-form)
+- Live Site URL: [abulhashim.github.io/Intro-Component-with-Signup-Form/](https://abulhashim.github.io/Intro-Component-with-Signup-Form/)
 
 ## My process
 
