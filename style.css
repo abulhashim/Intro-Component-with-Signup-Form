@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-error {
+  background: url(./images/icon-error.svg) no-repeat 95% center;
+}
