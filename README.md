@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io/solutions/intro-component-with-signup-form](https://www.frontendmentor.io/solutions/intro-component-with-signup-form)
+- Solution URL: [frontendmentor.io/solutions/intro-component-with-signup-form](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-6HTfEpmq3o)
 - Live Site URL: [abulhashim.github.io/Intro-Component-with-Signup-Form/](https://abulhashim.github.io/Intro-Component-with-Signup-Form/)
 
 ## My process
