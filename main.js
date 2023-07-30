@@ -1,4 +1,3 @@
-// INPUT ELEMENTS:
 const fisrtNameInput = document.getElementById("firstname");
 const lastNameInput = document.getElementById("lastname");
 const emailInput = document.getElementById("email");

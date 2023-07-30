@@ -23,6 +23,9 @@ export default {
       maxWidth: {
         "5.5xl": "70rem",
       },
+      fontSize: {
+        smaller: "11px",
+      },
     },
   },
   plugins: [],
